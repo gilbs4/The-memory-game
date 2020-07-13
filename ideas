@@ -1,0 +1,297 @@
+<div id="carousel-gallery" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="carousel-images"src="documents/images/bathroombefore workstarted.JPG" class="d-block" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>First slide label</p>
+        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="carousel-images"src="documents/images/bathroombefore1.JPG" class="d-block" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Second slide label</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="carousel-images"src="documents/images/bathroombefore2.JPG" class="d-block" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Third slide label</h5>
+        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+   
+   
+   
+   
+   
+   </section>
+   
+
+
+
+
+
+
+    <footer class="container-fluid">
+
+<h5>Follow us on Social Media</h5>
+<h6>All aspects of maintenance carried out, lets love your home together. Contact today, we will pop round and have a brew and give you a quote</h6>
+
+<div class="row">
+        <ul class="social-media">
+            <li class="list-inline">
+        
+            <div class="col"><a target="_blank" href=#><i class="fab fa-facebook-f" aria-hidden="true"></i></a></div>
+            </li>
+            <li><div class="col"><a target="_blank" href=#><i class="fab fa-instagram" aria-hidden="true"></i></a></div>
+            </li>
+            <li><div class="col"><a target="_blank" href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></div>
+            </li>
+            <li><div class="col"><a target="_blank" href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></div>
+            </li>
+            <li><div class="col"><a target="_blank" href="#"><i class="fab fa-pinterest" aria-hidden="true"></i></a></div>
+            </li>
+            <li><div class="col"><a target="_blank" href="#"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></div>   
+            </li>
+             
+        </ul>   
+      </div>      
+            
+
+            /*----------Carousel gallery*/
+
+ .carousel-gallery {
+    padding: 10px;
+    }
+
+.carousel-images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 100vh;
+    padding: 30px;
+}
+
+.carousel-caption {
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    position: center;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.carousel-indicators {
+    color: #676767;
+    margin-bottom: 150px;
+} 
+
+.carousel-control-prev
+.carousel-control-next {
+    color: #676767;
+    
+}
+
+
+<h3 class="section-heading">Thumbnail Image</h3>
+    <p class="gallery-image-p">Click on the image to enlarge it.</p>
+
+    <a target="_blank" href="documents/images/bathroombefore workstarted.JPG">
+    <img class="gallery-thumbnail" src="documents/images/bathroombefore workstarted.JPG" alt="bathroom" style="width:150px">
+    </a>
+   
+    <a target="_blank" href="documents/images/bathroombefore workstarted.JPG">
+    <img class="gallery-thumbnail" src="documents/images/bathroombefore workstarted.JPG" alt="bathroom" style="width:150px">
+    </a>
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <footer class="container-fluid">
+
+            <h5>Follow us on Social Media</h5>
+            <h6>All aspects of maintenance carried out, lets love your home together. Contact today, we will pop round and
+                have a brew and give you a quote</h6>
+
+            <div class="row">
+                <ul class="social-media">
+                    <li class="list-inline">
+
+                        <div class="col-4"><a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></div>
+                    </li>
+                    <li>
+                        <div class="col-4"><a target="_blank" href="https://www.instagram.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col-4"><a target="_blank" href="https://www.twitter.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col-4"><a target="_blank" href="https://www.youtube.com/"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col-4"><a target="_blank" href="https://www.pinterest.com/"><i class="fab fa-pinterest" aria-hidden="true"></i></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col-4"><a target="_blank"
+                                href="https://www.linkedin.com/"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></div>
+                    </li>
+
+                </ul>
+            </div>
+        </fo
+
+
+
+
+
+        <header class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-md-2 logo">
+                <a href="index.html"></a>
+                </div>
+                <div class="col-md-10">
+                    <div class="row no-gutters bg-color-name-title">
+                        <div class="heading">
+                            <h1 class="name">JT & Co.</h1>
+                            <h2 class="title">Property Development and Maintenance</h2>
+                        </div>
+
+                        <div class="contact-details">
+                            <i class="contact-icon fas fa-mobile-alt"></i>
+                            <div class="key uppercase">phone number:</div>
+                            <div class="value">07912 500509</div>
+                            <a class="contact-details-icons" href="mailto:jtbodkin@outlook.com?Subject=Hello%20again"
+                                target="_top"><i class="contact-icon fas fa-at"></i>
+                                <div class="key uppercase">email address:</div>
+                                <div class="value">jtbodkin@outlook.com</div></a>
+
+
+
+                        </div>
+                    </div>
+                    <div class="row no-gutters">
+                        <div class="col-12">
+                            <div class="list-inline menucontainer">
+                                <div class="col-md-4 ui-menu-color-home list-inline-item menuitem">
+                                    <a href="index.html"
+                                        class="hvr-sweep-to-top"><i class="fa fa-home" aria-hidden="true"></i><span>Home</span></a>
+                                </div>
+                                <div class="col-md-4 ui-menu-color-gallery list-inline-item menuitem">
+                                    <a href="gallery.html" class="hvr-sweep-to-top">
+                                        <i class="fa fa-image" aria-hidden="true"></i><span>Gallery</span></a>
+                                </div>
+                                <div class="col-md-4 ui-menu-color-contact list-inline-item menuitem">
+                                    <a href="contact.html"
+                                        class="hvr-sweep-to-top"><i class="fas fa-comment" aria-hidden="true"></i><span>Contact</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <body>
+        <header class="container-fluid">
+            <div class="row">
+                <div class="col-md-2 logo">
+                <a href="index.html"></a>
+                </div>
+                
+                    <div class="row no-gutters bg-color-name-title">
+                    <div class="col-md-12 heading">
+                       <h1 class="name">JT & Co.</h1>
+                            <h2 class="title">Property Development and Maintenance</h2>
+                        </div> 
+                           
+
+                        <div class="row no-gutters contact-details">
+                            <i class="contact-icon fas fa-mobile-alt"></i>
+                            <div class="col-md-3 key uppercase">phone number:</div>
+                            <div class="col-md-3 value">07912 500509</div>
+                            <a class="contact-details-icons" href="mailto:jtbodkin@outlook.com?Subject=Hello%20again"
+                                target="_top"><i class="contact-icon fas fa-at"></i>
+                                <div class="col-md-3 key uppercase">email address:</div>
+                                <div class="col-md-3 value">jtbodkin@outlook.com</div></a>
+
+
+                        </div>
+                        </div> 
+                    </div>
+                    <div class="list-inline menucontainer">
+                    <div class="row no-gutters">
+                        
+                                <div class="col-md-4 ui-menu-color-home list-inline-item menuitem">
+                                    <a href="index.html"
+                                        class="hvr-sweep-to-top"><i class="fa fa-home" aria-hidden="true"></i><span>Home</span></a>
+                                </div>
+                                <div class="col-md-4 ui-menu-color-gallery list-inline-item menuitem">
+                                    <a href="gallery.html" class="hvr-sweep-to-top">
+                                        <i class="fa fa-image" aria-hidden="true"></i><span>Gallery</span></a>
+                                </div>
+                                <div class="col-md-4 ui-menu-color-contact list-inline-item menuitem">
+                                    <a href="contact.html"
+                                        class="hvr-sweep-to-top"><i class="fas fa-comment" aria-hidden="true"></i><span>Contact</span></a>
+                                </div>
+                            </div>
+                        </div>
+    </header>  
